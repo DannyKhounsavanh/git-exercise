@@ -1,3 +1,3 @@
 # git-exercise
 
-Hello World!
+Hello World! Wonderful weather we're having
